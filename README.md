@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying M.Tech in Computational and Data Science at **IISc.**
 
-- 👯 I’m looking to collaborate on **Data Science projects.**
+- 👯 I’m looking to collaborate on **Data Science and Machine Learning projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
